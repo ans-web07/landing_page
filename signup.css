@@ -1,5 +1,5 @@
 body{
-  background:url('https://image.freepik.com/free-vector/elegant-dark-background-with-golden-details_23-2148430347.jpg');
+  background:#000000;
   background-repeat: no-repeat;
   background-size: cover;
   overflow-x: hidden;overflow-y: hidden;
@@ -30,7 +30,7 @@ h2{
   text-align: center;
 }
 .socialmedia{
-  margin-left: 42%;
+  margin-left: 40%;
   margin-top: 20px;
   margin-bottom: 30px;
 }
